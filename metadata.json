@@ -1,0 +1,8 @@
+{
+  "name": "DevScope",
+  "description": "GitHub Profile Analyzer, Interactive Skills Graph, Real-Time Code Diagnostics and AI-Powered Career Coach",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
